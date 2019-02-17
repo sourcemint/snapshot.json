@@ -4,7 +4,7 @@ snapshot.json
 
 Example **snapshot.json**:
 
-``
+```
 {
     "stream": {
         "id": {
@@ -34,4 +34,4 @@ Example **snapshot.json**:
         ...
     }
 }
-``
+```
