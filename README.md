@@ -1,6 +1,7 @@
 snapshot.json
 =============
 
+A codebase snapshot from which builds and releases may be derived.
 
 Example **snapshot.json**:
 
